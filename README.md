@@ -1,2 +1,2 @@
 # polymorphism
-Minimal kalo follow &amp; kasih star
+Minimal follow &amp; kasih star
